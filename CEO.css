@@ -1,0 +1,70 @@
+header {
+    width: 1920px;
+    height: 128px;
+    box-shadow: 0 6px 10px 0 rgba(130, 130, 130, 0.5);
+    position: fixed;
+    background-color: white;
+}
+
+@font-face {
+    font-family: 'Gilroy Thin';
+    src: url('Gilroy-Thin.eot');
+    src: url('Gilroy-Thin.eot?#iefix') format('embedded-opentype'),
+    url('Gilroy-Thin.woff') format('woff'),
+    url('Gilroy-Thin.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    }
+
+.nn{
+    padding-right: 120px;
+    padding-top: 30px;
+    font-size: 32px;
+    font-family: Oswald;
+    word-spacing: 72px;
+    float: right;
+}
+
+.nn a{
+    text-decoration: none;
+    color: black;
+    white-space: nowrap;
+    display: inline-block;
+    font-weight: 500;
+}
+
+.logo{
+    float: left;
+    padding-top: 20px;
+    padding-left: 60px;
+}
+
+
+.our p{
+    font-size: 56px;
+    padding-top: 200px;
+    font-family: Oswald;
+    padding-left: 50px;
+    
+}
+
+.pre p{
+    font-size: 40px;
+    font-family: Oswald;
+    padding-left: 50px;
+    font-weight: 200;
+}
+
+.pht p{
+    padding-left: 50px;
+}
+
+.opis p{
+    font-size: 32px;
+    font-family: gilroy;
+    padding-left: 50px;
+}
+
+.vse {
+    height: 1300px;
+}
